@@ -1,4 +1,4 @@
-//2200003637 Emre Koca
+//Emre Koca
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h> //this is my library
 #define NUM_MAX 99 //this is my max numbers.
